@@ -1,0 +1,1 @@
+web: GEM_HOME=/app/gems gems/bin/halunke web.hal
