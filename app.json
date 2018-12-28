@@ -1,0 +1,14 @@
+{
+  "name": "Halunke Web Example",
+  "description": "A barebones Tausendsassa app",
+  "repository": "https://github.com/beanieboi/halunke-web-example",
+  "keywords": [
+    "halunke",
+    "tausendsassa"
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/beanieboi/heroku-buildpack-halunke"
+    }
+  ]
+}
